@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(103, 161, 103);
+}
+
+.header {
+  text-align: center;
+  font-size: 2.5em;
+  color: white;
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.one {
+  text-align: left;
+  color: red;
+  font-size: 2em;
+  font-family: sans-serif;
+}
+
+.two{
+  text-align: center;
+  color: yellow;
+  font-size: 3em;
+  font-family: sans-serif;
+}
+
+.three {
+  text-align: right;
+  color: blue;
+  font-size: 4em;
+  font-family: sans-serif;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
